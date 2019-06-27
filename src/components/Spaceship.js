@@ -8,7 +8,7 @@ export default class Spaceship extends React.Component
     speed: 'slow',
     hasRockets: false,
     colors:['black','red']
-  } 
+  }
   render(){
     return(
       <div>
